@@ -1,6 +1,7 @@
 import styled from 'styled-components'
-import { cores } from '../../styles'
 import { Link } from 'react-router-dom'
+
+import { cores } from '../../styles'
 
 export const ButtonContainer = styled.button`
   border: 2px solid ${cores.branca};
