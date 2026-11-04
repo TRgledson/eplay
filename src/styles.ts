@@ -1,10 +1,11 @@
 import { createGlobalStyle } from 'styled-components'
 
 export const cores = {
-  branca: '#333',
-  preta: '#111111',
-  cinza: '#EEEEEE',
-  verde: '#10AC84'
+  branca: '#eee',
+  preta: '#111',
+  cinza: '#333',
+  verde: '#10AC84',
+  cinzaClaro: '#A3A3A3'
 }
 
 export const GlobalCss = createGlobalStyle`
